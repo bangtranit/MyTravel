@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/EmmanuelOga/ffaker.git
+  revision: b4d688f28025770eb1805d5ccb5ec1eac14c37ec
+  specs:
+    ffaker (2.9.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -128,6 +134,7 @@ PLATFORMS
 
 DEPENDENCIES
   byebug
+  ffaker!
   listen (>= 3.0.5, < 3.2)
   mysql2
   puma (~> 3.7)
